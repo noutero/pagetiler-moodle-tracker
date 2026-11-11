@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Demo site
+    url: https://pagetiler.ivent.pl
+    about: Try PageTiler before reporting UI issues.
+  - name: Admin guide
+    url: https://pagetiler.ivent.pl/local/sitepages/view.php?slug=docs
+    about: Install and configuration help.
