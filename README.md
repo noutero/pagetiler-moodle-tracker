@@ -9,7 +9,7 @@ Plugin **source code is not published here**. Purchase and download PageTiler fr
 | Plugin | Tracker |
 |--------|---------|
 | PageTiler (`mod_pagetiler`) | This repo |
-| Site pages (`local_sitepages`) | [moodle-local-sitepages-tracker](https://github.com/noutero/moodle-local-sitepages-tracker/issues) |
+| Site pages (`local_sitepages`) | [moodle-local-sitepages-tracker](https://github.com/noutero/moodle-local_sitepages/issues) |
 
 ## Demo and docs
 
